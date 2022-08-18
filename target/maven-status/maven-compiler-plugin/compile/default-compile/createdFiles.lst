@@ -1,3 +1,4 @@
 ru/admin/springMvc/config/controllers/FirstController.class
 ru/admin/springMvc/config/controllers/SecondController.class
 ru/admin/springMvc/config/MySpringMVCServletInitializator.class
+ru/admin/springMvc/config/SpringConfig.class

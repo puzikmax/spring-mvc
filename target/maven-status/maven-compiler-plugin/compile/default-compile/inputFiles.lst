@@ -1,4 +1,7 @@
 /Users/admin/Downloads/spring-mvc/src/main/java/ru/admin/springMvc/config/MySpringMVCServletInitializator.java
 /Users/admin/Downloads/spring-mvc/src/main/java/ru/admin/springMvc/config/controllers/FirstController.java
+/Users/admin/Downloads/spring-mvc/src/main/java/ru/admin/springMvc/config/controllers/PeopleController.java
+/Users/admin/Downloads/spring-mvc/src/main/java/ru/admin/springMvc/config/models/Person.java
 /Users/admin/Downloads/spring-mvc/src/main/java/ru/admin/springMvc/config/controllers/SecondController.java
 /Users/admin/Downloads/spring-mvc/src/main/java/ru/admin/springMvc/config/SpringConfig.java
+/Users/admin/Downloads/spring-mvc/src/main/java/ru/admin/springMvc/config/dao/PersonDAO.java

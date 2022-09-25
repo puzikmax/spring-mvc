@@ -1,4 +1,7 @@
-ru/admin/springMvc/config/controllers/FirstController.class
 ru/admin/springMvc/config/controllers/SecondController.class
 ru/admin/springMvc/config/MySpringMVCServletInitializator.class
 ru/admin/springMvc/config/SpringConfig.class
+ru/admin/springMvc/config/controllers/PeopleController.class
+ru/admin/springMvc/config/dao/PersonDAO.class
+ru/admin/springMvc/config/models/Person.class
+ru/admin/springMvc/config/controllers/FirstController.class
